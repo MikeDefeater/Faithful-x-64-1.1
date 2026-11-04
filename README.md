@@ -4,23 +4,32 @@ Resourcepacks für **Minecraft Java 1.21.1** (z. B. das Modpack *Aero Wizardry* 
 
 ## Download
 
-Es gibt zwei Versionen. Unter „Assets“ jeweils **beide** ZIP-Dateien herunterladen:
+Es gibt zwei Versionen. Einfach auf die Links klicken, der Download startet sofort. Du brauchst jeweils **beide** Dateien (Grundpack + Addon):
 
-- 👉 **[64x (Release v1.1)](../../releases/tag/v1.1)**: schönste Optik
-  - `Classic-Faithful-64x-Jappa-1.21.10.zip`: Grundpack **Classic Faithful 64x Jappa** (unverändert)
-  - `Classic-Faithful-64x-Jappa-1.21.10-Addon-64px-1.1.zip`: Addon in 64px
-- 👉 **[32x (Release v1.1-32x)](../../releases/tag/v1.1-32x)**: für schwächere PCs, läuft flüssiger
-  - `Classic-Faithful-Jappa-32x-Fassung-1.21.10.zip`: Grundpack, eine 32x-Fassung von Classic Faithful 64x Jappa
-  - `Classic-Faithful-Jappa-32x-Fassung-1.21.10-Addon-32px-1.1.zip`: das Addon in 32px
+### 64x: schönste Optik
+
+| Datei | Größe | Download |
+|---|---|---|
+| Grundpack **Classic Faithful 64x Jappa** (unverändert) | 9 MB | ⬇️ **[Grundpack 64x herunterladen](https://github.com/MikeDefeater/Faithful-x-64-1.1/releases/download/v1.1/Classic-Faithful-64x-Jappa-1.21.10.zip)** |
+| Addon in 64px | 388 MB | ⬇️ **[Addon 64px herunterladen](https://github.com/MikeDefeater/Faithful-x-64-1.1/releases/download/v1.1/Classic-Faithful-64x-Jappa-1.21.10-Addon-64px-1.1.zip)** |
+
+### 32x: für schwächere PCs, läuft flüssiger
+
+| Datei | Größe | Download |
+|---|---|---|
+| Grundpack, eine 32x-Fassung von Classic Faithful 64x Jappa | 4 MB | ⬇️ **[Grundpack 32x herunterladen](https://github.com/MikeDefeater/Faithful-x-64-1.1/releases/download/v1.1-32x/Classic-Faithful-Jappa-32x-Fassung-1.21.10.zip)** |
+| Addon in 32px | 118 MB | ⬇️ **[Addon 32px herunterladen](https://github.com/MikeDefeater/Faithful-x-64-1.1/releases/download/v1.1-32x/Classic-Faithful-Jappa-32x-Fassung-1.21.10-Addon-32px-1.1.zip)** |
 
 Nimm entweder die 64x- **oder** die 32x-Version, nicht beide gemischt.
 
+<sub>Alle Dateien gibt es auch auf den Release-Seiten: [v1.1 (64x)](../../releases/tag/v1.1) · [v1.1-32x](../../releases/tag/v1.1-32x)</sub>
+
 ## Installation
 
-1. Beide ZIP-Dateien herunterladen. **Nicht entpacken!**
+1. Oben auf die beiden Download-Links klicken. Die ZIP-Dateien landen in deinem **Downloads**-Ordner. **Nicht entpacken!**
 2. Minecraft starten → **Optionen** → **Ressourcenpakete** → **Pack-Ordner öffnen**.
    (Der Ordner ist normalerweise `%appdata%\.minecraft\resourcepacks`. Bei Prism Launcher: Rechtsklick auf die Instanz → **Ordner** → `minecraft\resourcepacks`.)
-3. Beide ZIP-Dateien in diesen Ordner kopieren.
+3. Beide ZIP-Dateien aus dem Downloads-Ordner in diesen Ordner kopieren.
 4. In Minecraft beide Packs nach rechts („Ausgewählt“) schieben, und zwar in dieser Reihenfolge:
    - **oben:** das Addon
    - **darunter:** das Grundpack
