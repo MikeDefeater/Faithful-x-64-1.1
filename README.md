@@ -33,7 +33,7 @@ Nimm entweder die 64x- **oder** die 32x-Version, nicht beide gemischt.
 4. In Minecraft beide Packs nach rechts („Ausgewählt“) schieben, und zwar in dieser Reihenfolge:
    - **oben:** das Addon
    - **darunter:** das Grundpack
-5. **Fertig** klicken. Falls Minecraft „für eine andere Version gemacht“ meldet, trotzdem bestätigen. Die Packs funktionieren.
+5. **Fertig** klicken. Falls Minecraft „für eine andere Version gemacht“ meldet, trotzdem bestätigen. Die Packs funktionieren. Beim ersten Laden kanns schon länger dauern ;)
 
 Tipp: 64x-Texturen brauchen mehr Grafikspeicher. Wenn das Spiel ruckelt, nimm die 32x-Version oder gib Minecraft mehr Arbeitsspeicher.
 
