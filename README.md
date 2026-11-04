@@ -2,6 +2,8 @@
 
 Resourcepacks für **Minecraft Java 1.21.1** (z. B. das Modpack *Aero Wizardry* in Prism Launcher), jeweils ein Grundpack plus ein Addon für viele Mods (Create, AE2, Ars Nouveau, Twilight Forest u. v. m.).
 
+📋 **[Welche Mods werden unterstützt? → Mod-Unterstützung](Mod-Unterstützung.md)** (138 Mods)
+
 ## Download
 
 **Aktuelle Version: 1.2.** Es gibt zwei Varianten. Einfach auf die Links klicken, der Download startet sofort. Du brauchst jeweils **beide** Dateien (Grundpack + Addon):
